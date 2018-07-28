@@ -6,3 +6,4 @@ Topics covered so far:
 REGRESSION:
 - Simple Linear Regression
 - Multiple Linear Regression
+- Polynomial Regression
