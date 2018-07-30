@@ -11,3 +11,4 @@ REGRESSION:
 - Decision Tree Regression
 - Random Forest Regression
 
+CLASSIFICATION:
