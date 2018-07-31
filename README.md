@@ -12,3 +12,4 @@ REGRESSION:
 - Random Forest Regression
 
 CLASSIFICATION:
+- Logistic Regression
