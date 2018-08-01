@@ -13,3 +13,4 @@ REGRESSION:
 
 CLASSIFICATION:
 - Logistic Regression
+- K-Nearest Neighbor
