@@ -16,4 +16,4 @@ CLASSIFICATION:
 - K-Nearest Neighbor
 - Support Vector Machines
 - Kernel SVM
-- 
+- Naive Bayes
