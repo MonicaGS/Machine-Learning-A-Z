@@ -15,4 +15,5 @@ CLASSIFICATION:
 - Logistic Regression
 - K-Nearest Neighbor
 - Support Vector Machines
+- Kernel SVM
 - 
