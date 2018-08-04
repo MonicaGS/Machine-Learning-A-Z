@@ -18,3 +18,4 @@ CLASSIFICATION:
 - Kernel SVM
 - Naive Bayes
 - Decision Tree
+- Random Forest
