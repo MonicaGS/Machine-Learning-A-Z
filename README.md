@@ -17,3 +17,4 @@ CLASSIFICATION:
 - Support Vector Machines
 - Kernel SVM
 - Naive Bayes
+- Decision Tree
