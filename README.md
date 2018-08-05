@@ -19,3 +19,7 @@ CLASSIFICATION:
 - Naive Bayes
 - Decision Tree
 - Random Forest
+
+CLUSTERING:
+- K-Means
+- Hierarchical
