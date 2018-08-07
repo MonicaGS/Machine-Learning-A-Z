@@ -23,3 +23,7 @@ CLASSIFICATION:
 CLUSTERING:
 - K-Means
 - Hierarchical
+
+ASSOCIATION RULE LEARNING
+- Apriori
+- Eclat
