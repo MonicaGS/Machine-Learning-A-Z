@@ -30,3 +30,4 @@ ASSOCIATION RULE LEARNING
 
 REINFORCEMENT LEARNING
 - Upper Confidence Bound
+- Thompson Sampling
