@@ -33,4 +33,4 @@ REINFORCEMENT LEARNING
 - Thompson Sampling
 
 NATURAL LANGUAGE PROCESSING
-- 
+- Bag of words model
