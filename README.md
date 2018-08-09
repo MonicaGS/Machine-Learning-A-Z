@@ -27,3 +27,7 @@ CLUSTERING:
 ASSOCIATION RULE LEARNING
 - Apriori
 - Eclat
+
+REINFORCEMENT LEARNING
+- Upper Confidence Bound
+- Thompson Sampling
