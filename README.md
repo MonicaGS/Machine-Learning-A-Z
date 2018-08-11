@@ -36,4 +36,4 @@ NATURAL LANGUAGE PROCESSING
 - Bag of words model
 
 DEEP LEARNING
-- 
+- Artificial Neural Networks
