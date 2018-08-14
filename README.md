@@ -37,4 +37,4 @@ NATURAL LANGUAGE PROCESSING
 
 DEEP LEARNING
 - Artificial Neural Networks
-- 
+- CNN
