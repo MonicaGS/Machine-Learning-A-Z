@@ -40,4 +40,4 @@ DEEP LEARNING
 - Convolutional Neural Networks
 
 DIMENSIONALITY REDUCTION
-
+- Principal Component Analysis
