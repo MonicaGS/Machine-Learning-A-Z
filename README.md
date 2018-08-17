@@ -39,5 +39,5 @@ DEEP LEARNING
 - Artificial Neural Networks
 - Convolutional Neural Networks
 
-DIMENSIONALITY REDUCTION
+
 
