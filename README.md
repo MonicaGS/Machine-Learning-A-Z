@@ -41,3 +41,4 @@ DEEP LEARNING
 
 DIMENSIONALITY REDUCTION
 - Principal Component Analysis
+- Linear Discrimant Analysis
